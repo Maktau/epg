@@ -1,0 +1,13 @@
+<tv>
+<channel id="2000.astro">
+<display-name lang="en">SELF SERVICE</display-name>
+<icon src="http://linear-poster.astro.com.my/prod/logo/AstroSService_2024.png"/>
+<url>https://astro.com.my</url>
+</channel>
+
+<programme start="20241208120000 +0800" stop="20241208180000 +0800" channel="2000.astro">
+<title lang="en">Portal Servis Astro</title>
+<desc lang="en">Cepat, mudah & tonton secara terus, langgan pakej</desc>
+<icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_10000112_IVP_LAND_917x516.jpg"/>
+</programme>
+</tv>
